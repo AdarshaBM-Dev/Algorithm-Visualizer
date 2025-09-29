@@ -1,4 +1,3 @@
-# ALGORITHM-VISUALIZER
 # 🧠 ALGORITHM-VISUALIZER
 
 **Algorithm Visualizer** is an interactive web application that helps visualize various computer science algorithms like sorting, searching, and pathfinding. This tool is great for learning, teaching, and demonstrating how algorithms work step-by-step.
