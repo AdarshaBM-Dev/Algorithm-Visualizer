@@ -71,5 +71,5 @@ linear.addEventListener('click', async () => {
     else {
         alert('Pleae put Searching Value first!!😕😕')
     }
-
+    
 })
