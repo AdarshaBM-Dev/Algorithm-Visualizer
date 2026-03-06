@@ -26,7 +26,7 @@ async function linearSearch(array, n, val) {
     }
     return -1
 }
-
+     
 
 const linear = document.querySelector('#linear_Search')
 linear.addEventListener('click', async () => {
