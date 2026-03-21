@@ -15,7 +15,7 @@ async function linearSearch(array, n, val) {
             array[i].style.background = 'green'
             array[i].style.color = '#fcfcfc'
             const step = document.querySelector('.step')
-            step.innerHTML = `${count}`
+            step.innerHTML = `${count}`   
             return i
         }
         findingAudio.play()
