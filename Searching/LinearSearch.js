@@ -19,7 +19,7 @@ async function linearSearch(array, n, val) {
             return i
         }
         findingAudio.play()
-        array[i].style.background = 'red'
+        array[i].style.background = 'red'  
         array[i].style.color = 'white'
 
         count++
