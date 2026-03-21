@@ -5,7 +5,7 @@ var mouseclick = new Audio('Mouseclick.mp3')
 var count = 0  
 
 async function linearSearch(array, n, val) {
-    for (let i = 0; i < n; i++) {
+    for (let i = 0; i < n; i++) {  
         await waitcount(delay)
         if (array[i].innerHTML == val) {
             count++
