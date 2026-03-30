@@ -6,7 +6,7 @@ var count = 0
 
 async function linearSearch(array, n, val) {
     for (let i = 0; i < n; i++) {  
-        await waitcount(delay)
+        await waitcount(delay)  
         if (array[i].innerHTML == val) {
             count++
             console.log(count)
