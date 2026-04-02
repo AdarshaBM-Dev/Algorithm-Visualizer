@@ -3,7 +3,7 @@ var mouseclick = new Audio('Mouseclick.mp3')
 var done = new Audio('wrong.mp3')   
 
 const BubbleSortButton = document.querySelector(".BubbleSort");
-BubbleSortButton.addEventListener('click', async function () {
+BubbleSortButton.addEventListener('click', async function () {   
     // headingchange1.textContent = "Bubble Sort";
     mouseclick.play()
     selectText.innerHTML = `Bubble Sort..`
