@@ -1,6 +1,6 @@
 var beep = new Audio('beep3.mp3')
 var mouseclick = new Audio('Mouseclick.mp3')
-var done = new Audio('wrong.mp3')
+var done = new Audio('wrong.mp3')   
 
 const BubbleSortButton = document.querySelector(".BubbleSort");
 BubbleSortButton.addEventListener('click', async function () {
