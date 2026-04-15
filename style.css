@@ -13,7 +13,7 @@
     --white: #fff;
 }
 
-.dark {
+.dark { 
     --black: #fff;
     --white: #000;
 }
@@ -25,7 +25,7 @@ header {
     align-items: center;
     width: 100%;
     padding: 40px 100px; 
-    z-index: 10000;
+    z-index: 10000; 
 }
 
 header .logo {
