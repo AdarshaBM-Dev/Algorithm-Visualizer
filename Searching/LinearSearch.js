@@ -1,6 +1,6 @@
 console.log('Linear Search')
 var findingAudio = new Audio('Finding.mp3')
-var findedAudio = new Audio('Finded.mp3')
+var findedAudio = new Audio('Finded.mp3')    
 var mouseclick = new Audio('Mouseclick.mp3')
 var count = 0    
 
