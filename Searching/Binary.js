@@ -1,5 +1,5 @@
 console.log('binary')
-var count = 0
+var count = 0   
 async function binarySearch(array, n, val) {
     let low = 0, high = n - 1;
     while (low <= high) {
