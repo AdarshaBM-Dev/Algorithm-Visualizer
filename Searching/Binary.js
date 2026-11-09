@@ -3,7 +3,7 @@ var count = 0
 async function binarySearch(array, n, val) {
     let low = 0, high = n - 1;
     while (low <= high) {
-        await waitcount(delay)
+        await waitcount(delay) 
         let mid = Math.floor((low + high) / 2)
         // console.log(mid)
         // console.log(val)
